@@ -33,4 +33,8 @@ nav a {
 nav a.router-link-exact-active {
   color: #42b983;
 }
+
+body {
+  background-image: url("assets/stars-bg.jpg");
+}
 </style>
